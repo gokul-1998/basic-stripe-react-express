@@ -1,3 +1,6 @@
+- `npx create-react-app stripe`
+- `cd stripe && npm start`
+
 - `npm i @stripe/stripe-js`
 
 - `npm install --save @stripe/react-stripe-js @stripe/stripe-js`
